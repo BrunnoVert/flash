@@ -1,4 +1,7 @@
-
+.review-img {
+  width: 290px;
+  margin-top: 5px;
+}
 .video-sec-area{background-color:#f4f4f4;}
 .text-bg-white{color:#3e3e3e !important;}
 .features-area h4{color:#f8f9fa !important;}
@@ -501,7 +504,7 @@ body.mobile-nav-active #mobile-nav-toggle{color:#fff;}
 .single-review p{margin-top:20px;}
 .single-review .star .checked{color:orange;}
 .single-review:hover{cursor:pointer;background-color:white;box-shadow:0px 20px 30px 0px #38a4ff75;}
-.faq-area{background-color:#2d2d2d;color:#e9ecef;}
+.faq-area{background-color:#000;color:#e9ecef;}
 .faq-area h1{color:#e9ecef !important;}
 .faq-left .card{border:none;background:transparent;border-radius:0 !important;margin-bottom:10px;}
 .faq-left .card-header{padding:5px;border-radius:0 !important;border-bottom:none;}
