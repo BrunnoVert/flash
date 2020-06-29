@@ -19,7 +19,7 @@
 .button-custom.white span{color:#fff;}
 .button-custom.white:hover{background:#fff;color:#235ee7;}
 .button-custom.white:hover span{color:#235ee7;}
-.float{position:fixed;width:60px;height:60px;bottom:10px;right:10px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow:2px 2px 3px #999;z-index:100;}
+.float{position:fixed;width:60px;height:60px;bottom:10px;left:10px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow:2px 2px 3px #999;z-index:100;}
 .my-float{margin-top:16px;}
 .features-img{margin-bottom:40px;}
 .features-icons{max-width:100px;height:auto;margin-bottom:inherit;}
